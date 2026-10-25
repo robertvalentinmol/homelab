@@ -1,2 +1,3 @@
 .env
 pihole/etc-pihole/
+uptime-kuma/data/
